@@ -20,7 +20,7 @@ import (
 */
 
 // 常量的定义
-const PI = 3.14
+const PI = 3.15
 
 // 全局变量的声明与赋值
 var name = "gopher"
